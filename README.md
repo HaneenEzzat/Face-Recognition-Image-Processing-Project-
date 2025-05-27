@@ -1,7 +1,7 @@
 # Image Processing on Image Dataset
 
 ## Overview
-This project demonstrates the application of fundamental image processing techniques using OpenCV. We work on a set of animal images and perform various enhancements and feature extraction operations.
+This project demonstrates the application of fundamental image processing techniques using OpenCV. We work on a set of images and perform various enhancements and feature extraction operations.
 
 Dataset used: [Animal Images Classification Dataset](https://www.kaggle.com/code/drisrarahmad/animal-images-classification-dataset)
 
